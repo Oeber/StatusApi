@@ -28,5 +28,10 @@
 		"Nome": "Mapfy Shield Api",
 		"Url": "https://shield-api.mapfy.com.br/health",
 		"Tipo": "json"
+	},
+	{
+		"Nome": "Mapfy Shield Worker",
+		"Url": "https://shield-worker.mapfy.com.br/health",
+		"Tipo": "json"
 	}
 ]
