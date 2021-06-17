@@ -10,11 +10,6 @@
 		"Type": 2
 	},
 	{
-		"Nome": "Mafy Data Integration Api",
-		"Url": "https://dataintegration.mapfy.com.br/api/health",
-		"Type": 2
-	},
-	{
 		"Nome": "Mapfy Tile Server",
 		"Url": "https://tiles.mapfy.com.br/health",
 		"Type": 2
