@@ -19,5 +19,10 @@
       "Url": "https://auth.gatec.com.br/health",
       "Name": "GAtec SSO",
       "CheckType": 0
-    }
+    },
+    {
+      "Url": "https://raw.githubusercontent.com/Oeber/StatusApi/master/TestApi.json",
+      "Name": "TestApi",
+      "CheckType": 0
+    },
   ]
