@@ -1,0 +1,23 @@
+
+[
+    {
+      "Url": "https://api.mapfy.com.br/api/health",
+      "Name": "Mapfy Api",
+      "CheckType": 2
+    },
+    {
+      "Url": "https://app.mapfy.com.br/",
+      "Name": "Mapfy App",
+      "CheckType": 1
+    },
+    {
+      "Url": "https://shield-api.mapfy.com.br/health",
+      "Name": "Mapfy Shield App",
+      "CheckType": 0
+    },
+    {
+      "Url": "https://auth.gatec.com.br/health",
+      "Name": "GAtec SSO",
+      "CheckType": 0
+    }
+  ]
