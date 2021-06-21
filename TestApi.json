@@ -1,0 +1,18 @@
+  {
+    "status": "Degraded",
+    "totalDuration": "00:00:00.0029956",
+    "entries": {
+      "Redis": {
+        "data": {},
+        "duration": "00:00:00.0016549",
+        "status": "Healthy",
+        "tags": []
+      },
+      "Mapfy Database": {
+        "data": {},
+        "duration": "00:00:00.0028045",
+        "status": "Healthy",
+        "tags": []
+      }
+    }
+  }
